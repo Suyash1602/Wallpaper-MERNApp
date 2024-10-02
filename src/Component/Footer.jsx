@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <footer style={styles.footer}>
       <p style={styles.text}>
-        &copy; {new Date().getFullYear()} WallpaperWebsite. All rights reserved.
+        &copy; {new Date().getFullYear()} WallpaperWebsite by Suyash. All rights reserved.
       </p>
       <div style={styles.socialLinks}>
         <a href="https://facebook.com" style={styles.link}>
